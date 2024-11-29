@@ -1,5 +1,8 @@
 # postgres
 
+### Saite uz prezentaciju:
+https://pikcrvtlv-my.sharepoint.com/:p:/g/personal/11dpgdimitrijevs_rvt_lv/ERCHs7FvuVpNlBP9WjBXAF4BNNcj67unyuHTZl6krk2cww?e=4TWqfF
+
 ## System requirements
 ### Operating System
 macOS 10 or later
