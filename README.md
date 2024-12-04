@@ -5,22 +5,21 @@ https://pikcrvtlv-my.sharepoint.com/:p:/g/personal/11dpgdimitrijevs_rvt_lv/ERCHs
 
 ## System requirements
 ### Operating System
-macOS 10 or later
+MacOS 10 or later
 
-### Hardware Requirements
-Processor: Minimum: Dual core processor
-Recommended: Quad core processor or higher
+### Requirements
+Processor: At least 2 core processor
+Recommended: 4 core processor or bigger
 
-### Memory (RAM)
-Minimum: 2 GB RAM for basic installations or small-scale usage
-Recommended: 4 GB or more for medium-scale usage
-Large databases or high-performance applications: 8 GB or more
+### Memory
+Minimum: 2 GB RAM for basic installations or light weight usage
+Recommended: 4 GB or more for medium usage
+Large databases or heavy applications: 8 GB or more
 
-### Disk Space
-Installation Space: ~200 MB for PostgreSQL binaries and dependencies
+### Space
+Installation Space: around 200 MB for Postgres dependencies
 Database Storage: Minimum: 1 GB for small test databases
-Recommended: Reserve 10x the size of your data for indexes, logs, and additional operations
-Use SSD storage for faster read/write operations
+Recommended: Use SSD storage for faster read/write operations
 
 
 ## Installation
